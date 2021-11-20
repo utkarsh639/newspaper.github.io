@@ -1,0 +1,134 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+.Top-heading-left{
+    width: 200px;
+    height: 80px;
+    border:1px solid black;
+    text-align: center;
+    padding: 5px;
+    margin-left: 10px;
+}
+.Top-heading-center{
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 20px;
+
+}
+.Top-heading-right{
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    padding: 5px;
+}
+h5{
+    text-align:center;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.hr{
+ width:25%;
+}
+.h-2{
+    text-align: center;
+}
+.Top-heading-center > h2{
+    margin: 0px;
+    font-size: 60px;
+}
+.flex-container-2{
+    display:flex;
+    justify-content: center;
+}
+.flex-element-left{
+         width:950px
+}
+.flex-element-right{
+    width:250px;
+}
+.flex-element-right > h2{
+    text-align: center;
+}
+.flex-element-right > hr{
+    width: 120px;
+}
+.flex-container-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-container-right > div > p{
+    font-size:20px;
+}
+.flex-element-left > img{
+width: 900px;
+background-size: cover;
+margin:0px;
+}
+.flex-container-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-container-right > div > img{
+    width:100px;
+}
+.flex-element-left-1{
+    width:200px;
+}
+.flex-element-left-right-1{
+    width:700px;
+}
+.flex-element-left-1{
+    border-right: 1px solid black;
+}
+.flex-element-left-right-1 > h2{
+    text-align: center;
+}
+.flex-container-5{
+    display: flex;
+    justify-content: center;
+}
+.flex-element-5{
+    width:200px;
+}
+.flex-element-6{
+    width:200px;
+}
+.flex-element-7{
+    width:200px;
+}
+.h5{
+    width:50%;
+}
+.flex-container-right-bottom{
+    display: flex;
+    justify-content: center;
+}
+.flex-element-right-bottom
+{
+    width:100px;
+}
+.flex-element-right-1-bottom
+{
+    width:100px;
+}
+.flex-container-left-bottom{
+    display: flex;
+    justify-content: center;
+}
+.flex-element-left-bottom{
+    width:2000px;
+}
+.flex-element-left-bottom-1{
+    width:2000px;
+}
+..flex-element-left-bottom-2{
+    width:2000px;
+}
